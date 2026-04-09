@@ -1,9 +1,10 @@
-## ╭────────────────────────────────.★..─╮
+## ╭─────────────────.★..─╮
 
 ##   (≧◡≦) ♡ bienvenide a mi perfil ♡       
 
-## ╰─..★.────────────────────────────────╯
+## ╰─..★.─────────────────╯
 
+---
 
 ### (￣▽￣)ノ que ondis soy luce
 
@@ -35,9 +36,9 @@ empecé un emprendimiento en repostería, donde hago budines, proximamente más.
 
 ---
 
-### ✧ tech stack
+### ✧ tech stack ﹒⌗﹒🦇﹒౨ৎ˚₊‧
 
-﹒⌗﹒🦇﹒౨ৎ˚₊‧
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -52,8 +53,3 @@ empecé un emprendimiento en repostería, donde hago budines, proximamente más.
 
 ---
 
-⠀⠀⠀⡤⠒⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡤⠒⢤
-⢣⡀⠀⠉⠲⢤⣀⡀⠀⠀⠀⠀⠀⠀⢀⣀⡤⠖⠉⠀⢀⡜
-⢸⡉⠒⠄⠀⠀⠀⢉⡙⢢⠀⠀⡔⢋⡉⠀⠀⠀⠠⠒⢉⡇
-⠀⠉⢖⠒⠀⠀⠀⣇⠀⣸⠀⠀⣇⠀⣸⠀⠀⠀⠒⡲⠉⠀
-⠀⠀⠀⠉⠙⠫⠤⠚⠉⠀⠀⠀⠀⠉⠓⠤⠝⠋⠉
