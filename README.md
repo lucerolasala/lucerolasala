@@ -1,8 +1,9 @@
-## ╔══════════════════════════════════════╗
+## ╭────────────────────────────────.★..─╮
 
-## ║  (≧◡≦) ♡ bienvenide a mi perfil ♡        ║
+##   (≧◡≦) ♡ bienvenide a mi perfil ♡       
 
-## ╚══════════════════════════════════════╝
+## ╰─..★.────────────────────────────────╯
+
 
 ### (￣▽￣)ノ que ondis soy luce
 
@@ -17,7 +18,9 @@
 (˘︶˘).｡.:*♡
 me apasionan los juegos, la música y la gastronomía.
 
-me gusta la programación y busco que algún día me apasione, ya que trabajaré de eso.
+me gusta el ascii art
+
+me gusta la programación; busco que algún día me apasione, ya que trabajaré de eso.
 
 actualmente mi enfoque es el frontend y sql. me gustan las experiencias visuales agradables en interfaces, y también me gusta organizar y ordenar información, por eso sql :p. 
 
@@ -46,3 +49,20 @@ empecé un emprendimiento en repostería, donde hago budines, proximamente más.
 ### ✧ contacto
 
 (｡•̀ᴗ-)✧ instagram: lucerolasala
+
+---
+
+
+⠀⠀⠀⠀⢀⣤⠤⣄⠀⠀⠀⠀⣠⠤⣄⠀⠀⠀
+⠀⠀⠀⢠⠞⠀⠀⠈⢷⠀⠀⡜⠃⠀⠈⢳⠀⠀
+⠀⠀⠀⣾⠀⠀⠀⠀⠘⡇⢰⠅⠀⠀⠀⠸⡇⠀
+⠀⠀⠀⣿⠀⠀⠀⠀⠀⡇⣾⠀⠀⠀⠀⢸⠃⠀
+⠀⠀⠀⢹⡀⠀⠀⠀⠀⡇⣿⠀⠀⠀⠀⡾⠀⠀
+⠀⠀⠀⠸⡇⠀⠀⠀⠀⠷⠿⠀⠀⠀⢰⠇⠀⠀
+⠀⢀⡴⠛⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢶⡀⠀
+⢰⠟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⡄
+⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷
+⢹⠀⠀⠀⢰⡆⠀⠀⠀⠀⠀⠀⢀⣄⠀⠀⠀⡟
+⠈⢧⡀⠀⠀⠀⠀⠀⢄⡀⣀⠀⠀⠁⠀⠀⣸⠃
+⠀⠈⠻⢦⣀⠀⠀⠀⠚⠙⠂⠀⠀⠀⣀⡴⠋⠀
+⠀⠀⠀⠀⠈⠉⠓⠒⠲⠶⠶⠒⠒⠋⠁⠀⠀⠀
