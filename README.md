@@ -1,6 +1,6 @@
 ## ╭─────────────────.★..─╮
 
-##   (≧◡≦) ♡ bienvenide a mi perfil ♡       
+##   (≧◡≦) ♡ bienvenid@ a mi perfil ♡       
 
 ## ╰─..★.─────────────────╯
 
