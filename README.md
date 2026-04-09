@@ -14,9 +14,8 @@
 
 ---
 
-### ✧ about me
+### ✧ about me ✩°｡ ⋆⸜ 🎧✮
 
-✩°｡ ⋆⸜ 🎧✮
 me apasionan los juegos, la música y la gastronomía.
 
 me gusta el ascii art
@@ -27,9 +26,8 @@ actualmente mi enfoque es el frontend y sql. me gustan las experiencias visuales
 
 ---
 
-### ✧ actualidad
+### ✧ actualidad 𖦹🍀୭˚. ᵎᵎ｡🧷𖦹°‧
 
-𖦹🍀୭˚. ᵎᵎ｡🧷𖦹°‧
 progresando en mi tesis de la carrera desarrollo de software junto a mi pareja leo.
 
 empecé un emprendimiento en repostería, donde hago budines, proximamente más...
