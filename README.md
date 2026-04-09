@@ -49,7 +49,8 @@ empecé un emprendimiento en repostería, donde hago budines, proximamente más.
 
 ### ✧ contacto
 
-(｡•̀ᴗ-)✧ instagram: lucerolasala
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/lucerolasala)
+
 
 ---
 
