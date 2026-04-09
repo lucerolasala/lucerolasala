@@ -7,6 +7,7 @@
 ### (￣▽￣)ノ que ondis soy luce
 
 ♡ repostera
+
 ♡ upcoming software dev.
 
 ---
@@ -15,7 +16,9 @@
 
 (˘︶˘).｡.:*♡
 me apasionan los juegos, la música y la gastronomía.
+
 me gusta la programación y busco que algún día me apasione, ya que trabajaré de eso.
+
 actualmente mi enfoque es el frontend y sql. me gustan las experiencias visuales agradables en interfaces, y también me gusta organizar y ordenar información, por eso sql :p. 
 
 ---
@@ -24,6 +27,7 @@ actualmente mi enfoque es el frontend y sql. me gustan las experiencias visuales
 
 (ง •̀_•́)ง
 progresando en mi tesis de la carrera desarrollo de software junto a mi pareja leo.
+
 empecé un emprendimiento en repostería, donde hago budines, proximamente más...
 
 ---
@@ -31,7 +35,6 @@ empecé un emprendimiento en repostería, donde hago budines, proximamente más.
 ### ✧ tech stack
 
 (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
